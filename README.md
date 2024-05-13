@@ -2,6 +2,7 @@
 Source code of research article “Brain tumor segmentation in MRI with multi-modality spatial information enhancement and boundary shape correction”
 
 If this code is helpful for your research, please cite 
+
 "Zhiqin Zhu, Ziyu Wang, Guanqiu Qi, Neal Mazur, Pan Yang, Yu Liu, Brain tumor segmentation in MRI with multi-modality spatial information enhancement and boundary shape correction, Pattern Recognition Volume 153, September 2024, 110553".
 
 
