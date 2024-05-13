@@ -5,9 +5,7 @@ If this code is helpful for your research, please cite
 "Zhiqin Zhu, Ziyu Wang, Guanqiu Qi, Neal Mazur, Pan Yang, Yu Liu, Brain tumor segmentation in MRI with multi-modality spatial information enhancement and boundary shape correction, Pattern Recognition Volume 153, September 2024, 110553".
 
 @article{ZHU2024110553,
-
 title = {Brain tumor segmentation in MRI with multi-modality spatial information enhancement and boundary shape correction},
-
 journal = {Pattern Recognition},
 volume = {153},
 pages = {110553},
