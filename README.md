@@ -1,8 +1,8 @@
-# MIE_SIE_BSC
 ### Brain tumor segmentation in MRI with multi-modality spatial information enhancement and boundary shape correction
 
 -----------
 Highlights
+
 • Proposes a novel CNN-based brain tumor segmentation method.
 
 • Introduces an MIE module to utilize the multi-modality information better.
