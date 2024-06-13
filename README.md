@@ -25,7 +25,7 @@ The dataset used in this paper is BraTS2018，2019 and 2020. The datasets can be
 
 This article is implemented by Pytorch.
 
-1. PyTorch 1.9.0
+1. PyTorch
 2. Some other libraries
 
 #### Cite
