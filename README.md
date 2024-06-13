@@ -11,7 +11,9 @@ Highlights
 
 • Presents a BSC module to improve the segmentation accuracy of boundaries.
 
-• Achieves the state-of-the-art brain tumor segmentation results.
+• Achieves the state-of-the-art brain tumor segmentation results
+
+(This paper was written in 2021, and it was accepted in 2024).
 
 #### DataSets
 
